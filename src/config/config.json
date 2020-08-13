@@ -1,0 +1,14 @@
+{
+  "development": {
+    "cloudfront": {},
+    "dynamodb": {},
+    "lambda": {},
+    "s3": {}
+  },
+  "production": {
+    "cloudfront": {},
+    "dynamodb": {},
+    "lambda": {},
+    "s3": {}
+  }
+}
